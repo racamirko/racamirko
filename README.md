@@ -13,7 +13,7 @@
   - FLOSS data projects
 - 📫 How to reach me ...
   - @racamirko@data-folks.masto.host
-  - last_name first_name at g_mail dot com
+  - racamirko@linkedin
   
 <!---
 mirac-cisco/mirac-cisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
